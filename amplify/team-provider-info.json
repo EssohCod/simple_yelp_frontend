@@ -1,0 +1,47 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frontendyelp-dev-0f361-authRole",
+      "UnauthRoleArn": "arn:aws:iam::302263064091:role/amplify-frontendyelp-dev-0f361-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::302263064091:role/amplify-frontendyelp-dev-0f361-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-frontendyelp-dev-0f361-deployment",
+      "UnauthRoleName": "amplify-frontendyelp-dev-0f361-unauthRole",
+      "StackName": "amplify-frontendyelp-dev-0f361",
+      "StackId": "arn:aws:cloudformation:us-east-1:302263064091:stack/amplify-frontendyelp-dev-0f361/0d9a1e70-7847-11ef-86a9-0e170a7f91ff",
+      "AmplifyAppId": "dqle4mk1baq3p"
+    },
+    "categories": {
+      "auth": {
+        "frontendyelp11e2c7b0": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dqle4mk1baq3p",
+          "type": "manual"
+        }
+      }
+    }
+  },
+  "fyelp": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-frontendyelp-fyelp-c8cce-authRole",
+      "UnauthRoleArn": "arn:aws:iam::302263064091:role/amplify-frontendyelp-fyelp-c8cce-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::302263064091:role/amplify-frontendyelp-fyelp-c8cce-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-frontendyelp-fyelp-c8cce-deployment",
+      "UnauthRoleName": "amplify-frontendyelp-fyelp-c8cce-unauthRole",
+      "StackName": "amplify-frontendyelp-fyelp-c8cce",
+      "StackId": "arn:aws:cloudformation:us-east-1:302263064091:stack/amplify-frontendyelp-fyelp-c8cce/91fd3130-79d1-11ef-9656-0e6439c318a7",
+      "AmplifyAppId": "ddb5i8bhef1ty"
+    },
+    "categories": {
+      "api": {
+        "frontendyelp": {}
+      },
+      "auth": {
+        "frontendyelp0681249d": {}
+      }
+    }
+  }
+}
